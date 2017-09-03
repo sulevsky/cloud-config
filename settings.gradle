@@ -1,0 +1,4 @@
+rootProject.name = 'cloud-config'
+
+include 'greeter'
+include 'config-service'
